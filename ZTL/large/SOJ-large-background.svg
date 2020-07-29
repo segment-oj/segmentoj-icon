@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1100" height="1100" viewBox="0 0 1100 1100">
   <defs>
-    <filter id="SOJ" x="165.696" y="32.945" width="769.525" height="1037.514" filterUnits="userSpaceOnUse">
+    <filter id="SOJ" x="232.696" y="122.612" width="634.138" height="856.847" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feFlood flood-opacity="0.502"/>
@@ -14,7 +14,7 @@
   <g id="custom_1" data-name="custom – 1" clip-path="url(#clip-custom_1)">
     <rect width="1100" height="1100" fill="#fff"/>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#SOJ)">
-      <path id="SOJ-2" data-name="SOJ" d="M195.822,726.991,204,731Zm0,0L-204,531,195.822,726.991,187.777,731Zm0,0,287.955-143.5V302.728L494,308l-10.223-5.272V583.492l5-2.492-5,2.492Zm287.955-143.5v0ZM-158,179.635,237,382ZM88.777,99l395,203.728ZM-158,179.635-169,174l11,5.636v0Zm0,0V-102.5L133.389-248.195,137-250l-3.611,1.805L529.777-50,133.389-248.195-158-102.5Zm0-282.136-5,2.5ZM129.777-250l3.612,1.805Z" transform="translate(387.5 309.5)" fill="#fff" stroke="#000" stroke-width="40"/>
+      <path id="SOJ-2" data-name="SOJ" d="M122.052,546.731,128.721,550Zm0,0L-204,386.9l326.052,159.83L115.491,550Zm0,0L356.877,429.708V200.746l8.337,4.3-8.337-4.3V429.708l4.078-2.032-4.078,2.032ZM356.877,429.708v0ZM-166.488,100.365l322.12,165.027ZM34.757,34.608l322.12,166.139Zm-201.245,65.758-8.97-4.6,8.97,4.6v0Zm0,0v-230.08L71.138-248.528,74.083-250l-2.945,1.472L394.39-86.9,71.138-248.528-166.488-129.715Zm0-230.08-4.077,2.038ZM68.193-250l2.945,1.472Z" transform="translate(454.5 399.5)" fill="#fff" stroke="#000" stroke-width="40"/>
     </g>
   </g>
 </svg>
